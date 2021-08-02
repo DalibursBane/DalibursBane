@@ -1,6 +1,6 @@
 # Let's Rock, Baby!  
 
-Hi, I'm **_Yaír_** but you can call me **Dálibur** and this is a short presentation about me.
+Hi, I'm **_Luis Yaír Sánchez Rodríguez_** but you can call me **_Dálibur_** and this is a short presentation about me.
 
 ## About me
 I'm student at the Universidad Autónoma Metropolitana studying computer engineering.  
